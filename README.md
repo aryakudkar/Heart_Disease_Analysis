@@ -1,4 +1,4 @@
-# Heart_Disease_Analysis 
+# Heart_Disease_Analysis ❤📊
 # Overview
 * The Heart Disease Analysis project aims to explore and analyze factors contributing to heart disease using a comprehensive dataset.
 * The insights gained from this analysis can be invaluable for healthcare professionals, researchers, and individuals aiming to understand heart disease better.
