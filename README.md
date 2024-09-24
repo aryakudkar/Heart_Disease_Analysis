@@ -5,8 +5,8 @@
 
 # Features
 * ETL Process:
-Extraction: Data sourced from reliable datasets.
-Transformation: Data cleaning, normalization, and encoding categorical variables using Python libraries such as Pandas.
+<br>Extraction: Data sourced from reliable datasets.
+<br>Transformation: Data cleaning, normalization, and encoding categorical variables using Python libraries such as Pandas.
 Loading: Processed data structured for analysis and visualization.
 
 * Exploratory Data Analysis (EDA):
