@@ -7,14 +7,14 @@
 * ETL Process:
 <br>Extraction: Data sourced from reliable datasets.
 <br>Transformation: Data cleaning, normalization, and encoding categorical variables using Python libraries such as Pandas.
-Loading: Processed data structured for analysis and visualization.
+<br>Loading: Processed data structured for analysis and visualization.
 
 * Exploratory Data Analysis (EDA):
-Visualizations to explore data distributions, correlations, and trends using libraries like Matplotlib and Seaborn.
-Identification of key relationships between features and the target variable (presence of heart disease).
+<br>Visualizations to explore data distributions, correlations, and trends using libraries like Matplotlib and Seaborn.
+<br>Identification of key relationships between features and the target variable (presence of heart disease).
 
 * Visualization:
-* Interactive dashboard displaying key insights and visualizations from the analysis by generating various plots and charts.
+<br>Interactive dashboard displaying key insights and visualizations from the analysis by generating various plots and charts.
 
 # Key Insights
 * Sex Distribution: The dataset shows a notable difference in heart disease prevalence between males and females, with a higher percentage of heart disease cases in males.
