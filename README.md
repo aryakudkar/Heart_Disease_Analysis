@@ -5,13 +5,13 @@
 
 # Features
 * ETL Process:
-* Extraction: Data sourced from reliable datasets.
-* Transformation: Data cleaning, normalization, and encoding categorical variables using Python libraries such as Pandas.
-* Loading: Processed data structured for analysis and visualization.
+Extraction: Data sourced from reliable datasets.
+Transformation: Data cleaning, normalization, and encoding categorical variables using Python libraries such as Pandas.
+Loading: Processed data structured for analysis and visualization.
 
 * Exploratory Data Analysis (EDA):
-* Visualizations to explore data distributions, correlations, and trends using libraries like Matplotlib and Seaborn.
-* Identification of key relationships between features and the target variable (presence of heart disease).
+Visualizations to explore data distributions, correlations, and trends using libraries like Matplotlib and Seaborn.
+Identification of key relationships between features and the target variable (presence of heart disease).
 
 * Visualization:
 * Interactive dashboard displaying key insights and visualizations from the analysis by generating various plots and charts.
